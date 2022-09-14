@@ -4,7 +4,7 @@
     package="com.shock.kukufm_onedirect">
 
     <application
-        android:name=".KukuFmOneDirectApplication"
+        android:name="com.shock.kukufm_onedirect.KukuFmOneDirectApplication"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
